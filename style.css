@@ -1,0 +1,115 @@
+
+hr{
+  border-style: dotted none none none;
+  border-width: 0.5rem;
+width:10%;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
+a{
+  color: #02475e;
+}
+h3{
+  color: #11999E;
+}
+body{
+  margin: 0;
+text-align: center;
+ font-family: 'Original Surfer', cursive;
+color:#393e46;
+}
+.top-container{
+
+    margin: 0;
+    padding: 20px;
+    color: #31326f;
+    height :1000px;
+    background-color: #dbf6e9;
+    position:relative;
+}
+.middle-container
+{
+
+  font-family: 'Orelega One', cursive;
+}
+.bottom-container
+{
+background-color: #28b5b5;
+margin: 0;
+padding: 0;
+}
+.uppercloud
+{
+  position: absolute;
+  left:300px;
+  top:300px;
+}
+.first{
+  text-align: center;
+  margin-top: 20%;
+  margin-bottom:0;
+  font-family: 'Brush Script MT', cursive;
+  font-size: 2rem;
+}
+.lowercloud{
+  position: absolute;
+  right:10%;
+  bottom:40%;
+}
+.mount{
+  margin-top: 0;
+}
+.sun{
+  position:absolute;
+  left:31%;
+  top:10%;
+height: 100px;;
+width: 100px;
+}
+
+#pic{
+  width : 20%;
+  height: 20%;
+  border-radius: 100%;
+}
+.skill-pic
+{
+  width: 25%;
+  border-radius: 100%;
+  float: left;
+  margin-right: 1%;
+  text-align: left;
+}
+.programmer{
+  line-height: 2;
+}
+.skill-row{
+
+  margin: 10% auto 10% auto;
+  width: 50%;
+line-height: 2;
+
+}
+
+.skill-pic1
+{
+  width: 20%;
+  border-radius: 100%;
+  float: right;
+  margin-right: 5%;
+  text-align: right;
+  margin:0;
+}
+
+.yo{
+  text-align: left;
+
+}
+.yo1{
+  text-align: right;
+
+}
